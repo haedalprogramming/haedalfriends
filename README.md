@@ -1,5 +1,41 @@
-# haedalfriends
-Haedal Friends Character License Policy. 해달프렌즈 캐릭터 라이센스 정책
+# We are HaedalFriends!
+해달프렌즈는 해달에듀만의 고유 캐릭터입니다.
+
+## Character information
+
+### Haedali
+
+### hugyu
+
+### sasumi
+
+### ari
+
+### doogeunkim
+
+### maggiecarl
+
+### searayon
+
+### buggie
+
+### supam
+
+## Folder information
+
+### Background
+
+### Christmas
+
+### HaedalEducation
+
+### HaedalFriends
+
+### Halloween
+
+### Manual
+
+### Utilization
 
 ## Licenses
 
