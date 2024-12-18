@@ -1,10 +1,10 @@
-# We are HaedalFriends! 우리는 해달프렌즈 입니다!
+# We are HaedalFriends! 우리는 해달프렌즈입니다!
 
 해달프렌즈는 해달에듀만의 고유 캐릭터입니다.
 
 2020년 5월20일에 창작되어 같은해 12월 9일 저작권 등록을 마친 캐릭터입니다.
 
-2024년 12월부터 다양한 모습의 캐릭터, 컴포넌트, 배경 이미지들을 오픈소스로 제공하고 있습니다다.
+2024년 12월부터 다양한 모습의 캐릭터, 컴포넌트, 배경 이미지들을 오픈소스로 제공하고 있습니다.
 
 # Character information 캐릭터 정보
 
@@ -182,75 +182,48 @@ The phrases most frequently spoken are 'Why is this so?', 'Why isn't this like t
 
 ### Manual-해달프렌즈 캐릭터 매뉴얼
 
-[Haedalfriends character manual Guide](Manual/README.md)
+- [Haedalfriends character manual Guide](Manual/README.md), [해달프렌즈 캐릭터 매뉴얼 가이드](Manual/README.md)
 
-[Click to see Haedalfriends character manual images](Manual)
+- [Click to see Haedalfriends character manual images](Manual), [해달프렌즈 캐릭터 매뉴얼 이미지 보러가기](Manual)
 
-[해달프렌즈 캐릭터 매뉴얼 가이드](Manual/README.md)
-
-[해달프렌즈 캐릭터 매뉴얼 이미지 보러가기](Manual)
 
 ### HaedalFriends-해달프렌즈 캐릭터
 
-[Haedalfriends character Guide](HaedalFriends/README.md)
+- [Haedalfriends character Guide](HaedalFriends/README.md), [해달프렌즈 캐릭터 가이드](HaedalFriends/README.md)
 
-[Click to see Haedalfriends character images](HaedalFriends)
+- [Click to see Haedalfriends character images](HaedalFriends), [해달프렌즈 캐릭터 이미지 보러가기](HaedalFriends)
 
-[해달프렌즈 캐릭터 가이드](HaedalFriends/README.md)
-
-[해달프렌즈 캐릭터 이미지 보러가기](HaedalFriends)
 
 ### Utilization-변형된 해달프렌즈
 
-[Utilized Haedalfriends character Guide](Utilization/README.md)
+- [Utilized Haedalfriends character Guide](Utilization/README.md), [변형된 해달프렌즈 캐릭터 가이드](Utilization/README.md)
 
-[Click to see utilized Haedalfriends character images](Utilization)
+- [Click to see utilized Haedalfriends character images](Utilization), [변형된 해달프렌즈 캐릭터 이미지 보러가기](Utilization)
 
-[변형된 해달프렌즈 캐릭터 가이드](Utilization/README.md)
-
-[변형된 해달프렌즈 캐릭터 이미지 보러가기](Utilization)
 
 ### Christmas-해달프렌즈 크리스마스 캐릭터
 
-[Haedalfriends Christmas character Guide](Christmas/README.md)
+- [Haedalfriends Christmas character Guide](Christmas/README.md), [해달프렌즈 크리스마스 캐릭터 가이드](Christmas/README.md)
 
-[Click to see Haedalfriends Christmas character images](Christmas)
-
-[해달프렌즈 크리스마스 캐릭터 가이드](Christmas/README.md)
-
-[해달프렌즈 크리스마스 캐릭터 이미지 보러가기](Christmas)
-
+- [Click to see Haedalfriends Christmas character images](Christmas), [해달프렌즈 크리스마스 캐릭터 이미지 보러가기](Christmas)
 
 ### Halloween-해달프렌즈 할로윈 캐릭터
 
-[Haedalfriends Halloween character Guide](Halloween/README.md)
+- [Haedalfriends Halloween character Guide](Halloween/README.md), [해달프렌즈 할로윈 캐릭터 가이드](Halloween/README.md)
 
-[Click to see Haedalfriends Halloween character images](Halloween)
-
-[해달프렌즈 할로윈 캐릭터 가이드](Halloween/README.md)
-
-[해달프렌즈 할로윈 캐릭터 이미지 보러가기](Halloween)
-
+- [Click to see Haedalfriends Halloween character images](Halloween), [해달프렌즈 할로윈 캐릭터 이미지 보러가기](Halloween)
 
 ### HaedalEducation-해달에듀 컴포넌트
 
-[HaedalEducation Component Guide](HaedalEducation/README.md)
+- [HaedalEducation Component Guide](HaedalEducation/README.md), [해달에듀 컴포넌트 가이드](HaedalEducation/README.md)
 
-[Click to see HaedalEducation Component images](HaedalEducation)
-
-[해달에듀 컴포넌트 가이드](HaedalEducation/README.md)
-
-[해달에듀 컴포넌트 이미지 보러가기](HaedalEducation)
+- [Click to see HaedalEducation Component images](HaedalEducation), [해달에듀 컴포넌트 이미지 보러가기](HaedalEducation)
 
 ### Background-배경 이미지
 
-[Background Guide](Background/README.md)
+- [Background Guide](Background/README.md), [배경 이미지 가이드](Background/README.md)
 
-[Click to see Background images](Background)
-
-[배경 이미지 가이드](Background/README.md)
-
-[배경 이미지 보러가기](Background)
+- [Click to see Background images](Background), [배경 이미지 보러가기](Background)
 
 ## Licenses-라이센스
 
@@ -262,12 +235,12 @@ The phrases most frequently spoken are 'Why is this so?', 'Why isn't this like t
 
 Please contribute to HaedalFriends!
 
-Create issue with image name / image file(.svg).
+Create issue with image name / image file(.svg) in this repository.
 
 We will look at the images of the issue you have created and try to contribute to HaedalFriends through feedback! 
 
 해달프렌즈에 기여해주세요!
 
-이미지 이름 / 이미지 파일(.svg)로 이슈를 작성해주세요.
+이미지 이름 / 이미지 파일(.svg)로 현재 레포지토리에 이슈를 작성해주세요.
 
-생성하신 만든 이슈의 이미지를 검토하고, 피드백을 통해 해달프렌즈 캐릭터에 기여할 수 있도록 노력하겠습니다.
+생성하신 이슈의 이미지를 검토하고, 피드백을 통해 해달프렌즈 캐릭터에 기여할 수 있도록 노력하겠습니다.
