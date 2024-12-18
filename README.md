@@ -270,4 +270,4 @@ We will look at the images of the issue you have created and try to contribute t
 
 이미지 이름 / 이미지 파일(.svg)로 이슈를 작성해주세요.
 
-생성하신신 만든 이슈의 이미지를 검토하고, 피드백을 통해 해달프렌즈 캐릭터에 기여할 수 있도록 노력하겠습니다.
+생성하신 만든 이슈의 이미지를 검토하고, 피드백을 통해 해달프렌즈 캐릭터에 기여할 수 있도록 노력하겠습니다.
