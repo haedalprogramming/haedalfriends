@@ -6,7 +6,7 @@ We provide an introductory image of the HaedalFriends character.
 
 All image names have the following rules.
 
-- `Manual_캐릭터명_infor_번호`
+- `Manual_(character name)_infor_(file number)`
 
 해달프렌즈 캐릭터에 대한 소개 이미지를 제공합니다.
 
