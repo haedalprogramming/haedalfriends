@@ -25,6 +25,8 @@ Mainly found by the window on the second floor of a cafe near the campus, coding
 내려간 입꼬리의 포커페이스 소유자로 언뜻 보면 차가울 것 같지만, 몰랑몰랑한 손으로 여러 학우들의 코딩을 도와주는 따뜻한 도시의 해달이다. <br>
 주로 학교 근처의 카페 3층 창가에서 발견되며 배 위에 노트북을 올려 두고 코딩하는 모습이 IT대학교 명물이라고..?
 
+---
+
 ### Hugyu-흐규
 
 <img src="./HaedalFriends/HaedalFriends_hugyu_basic_0.png" height="170">
@@ -43,6 +45,8 @@ So exhausted from overnight work that sometimes passes by friends on the street 
 해달이의 도움을 받아 열심히 졸업을 준비하고 있다고 한다.<br>
 작업시간은 과내 탑이지만 어쩐지 결과물은 슬프기만한 친구.<br>
 밤샘 작업을 하다 밖에서 친구를 만나도 못알아보고 지나가기도 한다.
+
+---
 
 ### Sasumi-사스미
 
@@ -65,6 +69,8 @@ Sasumi's annoyingly attractive, but undeniably handsome - a too-much setting.
 과방에서 늘 자신의 작업물들을 보며 감탄하고 있다는 소문이 있다.<br>
 재수 없지만 부정할 수 없는 존잘이라는 투머치 설정
 
+---
+
 ### Ari-아리
 
 <img src="./HaedalFriends/HaedalFriends_ari_basic_0.png" height="170">
@@ -82,6 +88,8 @@ IT대학 교내의 국민 샌애긔<br>
 아직 공대의 생태계를 모르기에 항상 해맑고 긍정적이다.<br>
 아무 것도 모르지만 그렇기에 행복한 학교 생활 중이다.<br>
 날개와 부리를 사용한 3단 콤보 프로그래밍이 특기인 공대의 귀염둥이
+
+---
 
 ### Doogeunkim-김두근
 
@@ -105,6 +113,8 @@ IT대학의 반전매력을 담당하는 토끼<br>
 덕분에 학년이 올라갈수록 에잇팩의 소유자가 되어버렸다고 한다.<br>
 초식 동물이기에 열심히 콩만 먹어서 키운 근육이라고?
 
+---
+
 ### Maggiecarl-매기
 
 <img src="./HaedalFriends/HaedalFriends_maggiecarl_basic_0.png" height="170">
@@ -125,6 +135,8 @@ By the way, his favorite snack is Shrimp Crackers.<br>
 새로 나온 모든 기기는 거의 모두 가지고 있다고 할 수 있다.
 여담이지만 제일 좋아하는 과자는 새우깡이라고
 
+---
+
 ### Searayon-시라용
 
 <img src="./HaedalFriends/HaedalFriends_searayon_basic_0.png" height="170">
@@ -141,9 +153,11 @@ There's a rumor that I actually always order an iced latte at cafes..."
 어쩐지 옛날 것에 집착하는 고집이 있어 IT대에서 외로운 젊은 꼰대의 길을 자처해 걷고 있는 포지션
 실제로 카페에서 늘 아이스 라떼만 시킨다는 소문이..?
 
+---
+
 ### Buggie-부기
 
-[이미지 업로드 예정정]
+[이미지 업로드 예정]
 
 **A Typical Turtle-Neck from the Haedal University**
 
@@ -158,6 +172,8 @@ It is said that inside their shell, a precious MacBook is carried."
 매일 캡모자와 커피를 지참하고 과방으로 향한다.
 심각한 거북목 덕에 바로 바다로 가면 될 것 같다는 거북목계의 살아있는 전설.
 그의 등딱지 안에는 소중한 맥북이 들어있다고 한다.
+
+---
 
 ### Supam-스팸
 
