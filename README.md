@@ -10,7 +10,7 @@
 
 ### Haedali-해달이
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_haedali_basic_0.png" height="170">
 
 **Mascot of Haedal Friends**
 
@@ -25,13 +25,13 @@ Mainly found by the window on the second floor of a cafe near the campus, coding
 내려간 입꼬리의 포커페이스 소유자로 언뜻 보면 차가울 것 같지만, 몰랑몰랑한 손으로 여러 학우들의 코딩을 도와주는 따뜻한 도시의 해달이다. <br>
 주로 학교 근처의 카페 3층 창가에서 발견되며 배 위에 노트북을 올려 두고 코딩하는 모습이 IT대학교 명물이라고..?
 
-### hugyu-흐규
+### Hugyu-흐규
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_hugyu_basic_0.png" height="170">
 
 **Haedal's Shy but Kind Friend**
 
-Studying at the IT College together with Haedal.<br> 
+Studying at the IT College together with Haedal.<br>
 A supreme introvert who starts worrying about bugs from the very beginning of project planning.<br>
 Preparing for graduation with Haedal's help. Works the longest hours in the department, yet somehow always ends up with sad results.<br>
 So exhausted from overnight work that sometimes passes by friends on the street without even recognizing them.
@@ -44,13 +44,13 @@ So exhausted from overnight work that sometimes passes by friends on the street 
 작업시간은 과내 탑이지만 어쩐지 결과물은 슬프기만한 친구.<br>
 밤샘 작업을 하다 밖에서 친구를 만나도 못알아보고 지나가기도 한다.
 
-### sasumi-사스미
+### Sasumi-사스미
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_sasumi_basic_0.png" height="170">
 
 **A developer born with 48 hours in a day**
 
-Blessed by the development languages, born as an  who was a developer from birth. Sasumi is handsome animal in Haedal University.<br>
+Blessed by the development languages, born as an who was a developer from birth. Sasumi is handsome animal in Haedal University.<br>
 In the terminal stage of a prince syndrome, Sasumi has severe narcissism about coding skills.
 Moreover, Sasumi's the most popular student in the Computer Science department. <br>
 Sasumi's an overachiever who is the top score student in department, department representative, and misses no opportunity to enhance specs.
@@ -65,10 +65,9 @@ Sasumi's annoyingly attractive, but undeniably handsome - a too-much setting.
 과방에서 늘 자신의 작업물들을 보며 감탄하고 있다는 소문이 있다.<br>
 재수 없지만 부정할 수 없는 존잘이라는 투머치 설정
 
+### Ari-아리
 
-### ari-아리
-
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_ari_basic_0.png" height="170">
 
 **A Cute Child in a Barren Engineering College**
 
@@ -84,9 +83,9 @@ IT대학 교내의 국민 샌애긔<br>
 아무 것도 모르지만 그렇기에 행복한 학교 생활 중이다.<br>
 날개와 부리를 사용한 3단 콤보 프로그래밍이 특기인 공대의 귀염둥이
 
-### doogeunkim-김두근
+### Doogeunkim-김두근
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_doogeunkim_basic_0.png" height="170">
 
 **An Innocent Face with huge Muscles**
 
@@ -106,9 +105,9 @@ IT대학의 반전매력을 담당하는 토끼<br>
 덕분에 학년이 올라갈수록 에잇팩의 소유자가 되어버렸다고 한다.<br>
 초식 동물이기에 열심히 콩만 먹어서 키운 근육이라고?
 
-### maggiecarl-매기
+### Maggiecarl-매기
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_maggiecarl_basic_0.png" height="170">
 
 **Has All the Latest IT Devices.**
 
@@ -126,14 +125,14 @@ By the way, his favorite snack is Shrimp Crackers.<br>
 새로 나온 모든 기기는 거의 모두 가지고 있다고 할 수 있다.
 여담이지만 제일 좋아하는 과자는 새우깡이라고
 
-### searayon-시라용
+### Searayon-시라용
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_searayon_basic_0.png" height="170">
 
 **After Returning to School, Already 500 Lattes**
 
 Searayon, who says, "It wasn't like this before. Back in the day, this language was up to date" is a living Paleozoic fossil at the Haedal University.<br>
-For some reason, Searayon have an obsession with old things, voluntarily walking the path of a lonely young rigid person in the IT department.<br> 
+For some reason, Searayon have an obsession with old things, voluntarily walking the path of a lonely young rigid person in the IT department.<br>
 There's a rumor that I actually always order an iced latte at cafes..."
 
 **복학 후 라떼만 벌써 500잔 째**
@@ -142,9 +141,9 @@ There's a rumor that I actually always order an iced latte at cafes..."
 어쩐지 옛날 것에 집착하는 고집이 있어 IT대에서 외로운 젊은 꼰대의 길을 자처해 걷고 있는 포지션
 실제로 카페에서 늘 아이스 라떼만 시킨다는 소문이..?
 
-### buggie-부기
+### Buggie-부기
 
-[이미지 삽입 예정]
+[이미지 업로드 예정정]
 
 **A Typical Turtle-Neck from the Haedal University**
 
@@ -160,9 +159,9 @@ It is said that inside their shell, a precious MacBook is carried."
 심각한 거북목 덕에 바로 바다로 가면 될 것 같다는 거북목계의 살아있는 전설.
 그의 등딱지 안에는 소중한 맥북이 들어있다고 한다.
 
-### supam-스팸
+### Supam-스팸
 
-[이미지 삽입 예정]
+<img src="./HaedalFriends/HaedalFriends_supam_basic_0.png" height="170">
 
 **Academic Passion That Only Ignites Near the End of Class**
 
@@ -182,46 +181,43 @@ The phrases most frequently spoken are 'Why is this so?', 'Why isn't this like t
 
 ### Manual-해달프렌즈 캐릭터 매뉴얼
 
-- [Haedalfriends character manual Guide](Manual/README.md), [해달프렌즈 캐릭터 매뉴얼 가이드](Manual/README.md)
+- [Haedalfriends Manual Folder Guide](Manual/README.md), [매뉴얼 폴더 사용법](Manual/README.md)
 
-- [Click to see Haedalfriends character manual images](Manual), [해달프렌즈 캐릭터 매뉴얼 이미지 보러가기](Manual)
-
+- [Click to see Haedalfriends Manual Folder images](Manual), [해달프렌즈 매뉴얼 이미지 보러가기](Manual)
 
 ### HaedalFriends-해달프렌즈 캐릭터
 
-- [Haedalfriends character Guide](HaedalFriends/README.md), [해달프렌즈 캐릭터 가이드](HaedalFriends/README.md)
+- [Haedalfriends character Folder Guide](HaedalFriends/README.md), [해달프렌즈 캐릭터 폴더 사용법](HaedalFriends/README.md)
 
 - [Click to see Haedalfriends character images](HaedalFriends), [해달프렌즈 캐릭터 이미지 보러가기](HaedalFriends)
 
-
 ### Utilization-변형된 해달프렌즈
 
-- [Utilized Haedalfriends character Guide](Utilization/README.md), [변형된 해달프렌즈 캐릭터 가이드](Utilization/README.md)
+- [Utilized Haedalfriends character Folder Guide](Utilization/README.md), [변형된 해달프렌즈 캐릭터 폴더 사용법](Utilization/README.md)
 
 - [Click to see utilized Haedalfriends character images](Utilization), [변형된 해달프렌즈 캐릭터 이미지 보러가기](Utilization)
 
-
 ### Christmas-해달프렌즈 크리스마스 캐릭터
 
-- [Haedalfriends Christmas character Guide](Christmas/README.md), [해달프렌즈 크리스마스 캐릭터 가이드](Christmas/README.md)
+- [Haedalfriends Christmas character Folder Guide](Christmas/README.md), [해달프렌즈 크리스마스 캐릭터 폴더 사용법](Christmas/README.md)
 
 - [Click to see Haedalfriends Christmas character images](Christmas), [해달프렌즈 크리스마스 캐릭터 이미지 보러가기](Christmas)
 
 ### Halloween-해달프렌즈 할로윈 캐릭터
 
-- [Haedalfriends Halloween character Guide](Halloween/README.md), [해달프렌즈 할로윈 캐릭터 가이드](Halloween/README.md)
+- [Haedalfriends Halloween character Folder Guide](Halloween/README.md), [해달프렌즈 할로윈 캐릭터 폴더 사용법](Halloween/README.md)
 
 - [Click to see Haedalfriends Halloween character images](Halloween), [해달프렌즈 할로윈 캐릭터 이미지 보러가기](Halloween)
 
 ### HaedalEducation-해달에듀 컴포넌트
 
-- [HaedalEducation Component Guide](HaedalEducation/README.md), [해달에듀 컴포넌트 가이드](HaedalEducation/README.md)
+- [HaedalEducation Component Folder Guide](HaedalEducation/README.md), [해달에듀 컴포넌트 폴더 사용법](HaedalEducation/README.md)
 
 - [Click to see HaedalEducation Component images](HaedalEducation), [해달에듀 컴포넌트 이미지 보러가기](HaedalEducation)
 
 ### Background-배경 이미지
 
-- [Background Guide](Background/README.md), [배경 이미지 가이드](Background/README.md)
+- [Background Folder Guide](Background/README.md), [배경 이미지 폴더 사용법](Background/README.md)
 
 - [Click to see Background images](Background), [배경 이미지 보러가기](Background)
 
@@ -230,14 +226,13 @@ The phrases most frequently spoken are 'Why is this so?', 'Why isn't this like t
 1. [English Licenses](characterLicense_en.md)
 2. [Korean Licenses](characterLicense_kr.md)
 
-
 ## Do you want to be contributor?-나만의 해달프렌즈 이미지를 갖고 계신가요?
 
 Please contribute to HaedalFriends!
 
 Create issue with image name / image file(.svg) in this repository.
 
-We will look at the images of the issue you have created and try to contribute to HaedalFriends through feedback! 
+We will look at the images of the issue you have created and try to contribute to HaedalFriends through feedback!
 
 해달프렌즈에 기여해주세요!
 
