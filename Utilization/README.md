@@ -1,4 +1,4 @@
-# Utilization
+# Utilization-변형된 해달프렌즈
 
 **Utilized Haedalfriends character Folder Guide - 변형된 해달프렌즈 캐릭터 폴더 사용법**
 
@@ -306,6 +306,8 @@ All image names have the following rules.
 [Utilization_supam_walk_3.png](./Utilization_supam_walk_3.png)
 
 <img src="./Utilization_supam_walk_3.png" height="170">
+
+---
 
 ### Using HaedalFriends
 

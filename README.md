@@ -157,7 +157,7 @@ There's a rumor that I actually always order an iced latte at cafes..."
 
 ### Buggie-부기
 
-[이미지 업로드 예정]
+<img src="./Utilization/Utilization_buggie_drink_0.png" height="170">
 
 **A Typical Turtle-Neck from the Haedal University**
 

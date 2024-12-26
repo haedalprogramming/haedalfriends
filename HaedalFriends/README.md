@@ -1,4 +1,4 @@
-# HaedalFriends
+# HaedalFriends-해달프렌즈 캐릭터
 
 **Haedalfriends character Folder Guide - 해달프렌즈 캐릭터 폴더 사용법**
 
