@@ -197,48 +197,81 @@ The phrases most frequently spoken are 'Why is this so?', 'Why isn't this like t
 
 ### Manual-해달프렌즈 캐릭터 매뉴얼
 
-- [Click to see Haedalfriends Manual Folder images](Manual), [해달프렌즈 매뉴얼 이미지 보러가기](Manual)
+- We provide an introductory image of the HaedalFriends character.
 
-- [Haedalfriends Manual Folder Guide](Manual/README.md), [매뉴얼 폴더 사용법](Manual/README.md)
+- 해달프렌즈 캐릭터에 대한 소개 이미지를 제공합니다.
+
+    - [Click to see Haedalfriends Manual Folder images](Manual), [해달프렌즈 매뉴얼 이미지 보러가기](Manual)
+
+    - [Haedalfriends Manual Folder Guide](Manual/README.md), [매뉴얼 폴더 사용법](Manual/README.md)
 
 ### HaedalFriends-해달프렌즈 캐릭터
 
-- [Click to see Haedalfriends character images](HaedalFriends), [해달프렌즈 캐릭터 이미지 보러가기](HaedalFriends)
+- We provide an image of the HaedalFriends character.
 
-- [Haedalfriends character Folder Guide](HaedalFriends/README.md), [해달프렌즈 캐릭터 폴더 사용법](HaedalFriends/README.md)
+- 해달프렌즈 캐릭터 이미지를 제공합니다.
+
+    - [Click to see Haedalfriends character images](HaedalFriends), [해달프렌즈 캐릭터 이미지 보러가기](HaedalFriends)
+
+    - [Haedalfriends character Folder Guide](HaedalFriends/README.md), [해달프렌즈 캐릭터 폴더 사용법](HaedalFriends/README.md)
 
 
 ### Utilization-변형된 해달프렌즈
 
-- [Click to see utilized Haedalfriends character images](Utilization), [변형된 해달프렌즈 캐릭터 이미지 보러가기](Utilization)
+- We provide an image of the utilized HaedalFriends character.
 
-- [Utilized Haedalfriends character Folder Guide](Utilization/README.md), [변형된 해달프렌즈 캐릭터 폴더 사용법](Utilization/README.md)
+- 변형된 해달프렌즈 캐릭터 이미지를 제공합니다.
+
+    - [Click to see utilized Haedalfriends character images](Utilization), [변형된 해달프렌즈 캐릭터 이미지 보러가기](Utilization)
+
+    - [Utilized Haedalfriends character Folder Guide](Utilization/README.md), [변형된 해달프렌즈 캐릭터 폴더 사용법](Utilization/README.md)
 
 
 ### Christmas-해달프렌즈 크리스마스 캐릭터
 
-- [Click to see Haedalfriends Christmas character images](Christmas), [해달프렌즈 크리스마스 캐릭터 이미지 보러가기](Christmas)
+- We provide an Christmas version of Haedalfriends character images.
 
-- [Haedalfriends Christmas character Folder Guide](Christmas/README.md), [해달프렌즈 크리스마스 캐릭터 폴더 사용법](Christmas/README.md)
+- 해달프렌즈 캐릭터의 크리스마스 버전 이미지를 제공합니다.
+
+    - [Click to see Haedalfriends Christmas character images](Christmas), [해달프렌즈 크리스마스 캐릭터 이미지 보러가기](Christmas)
+
+    - [Haedalfriends Christmas character Folder Guide](Christmas/README.md), [해달프렌즈 크리스마스 캐릭터 폴더 사용법](Christmas/README.md)
 
 ### Halloween-해달프렌즈 할로윈 캐릭터
 
-- [Click to see Haedalfriends Halloween character images](Halloween), [해달프렌즈 할로윈 캐릭터 이미지 보러가기](Halloween)
+- We provide an Halloween version of Haedalfriends character images.
 
-- [Haedalfriends Halloween character Folder Guide](Halloween/README.md), [해달프렌즈 할로윈 캐릭터 폴더 사용법](Halloween/README.md)
+- 해달프렌즈 캐릭터의 할로윈 버전 이미지를 제공합니다.
 
+    - [Click to see Haedalfriends Halloween character images](Halloween), [해달프렌즈 할로윈 캐릭터 이미지 보러가기](Halloween)
+
+    - [Haedalfriends Halloween character Folder Guide](Halloween/README.md), [해달프렌즈 할로윈 캐릭터 폴더 사용법](Halloween/README.md)
 
 ### HaedalEducation-해달에듀 컴포넌트
 
-- [Click to see HaedalEducation Component images](HaedalEducation), [해달에듀 컴포넌트 이미지 보러가기](HaedalEducation)
+- We provide component images used in HaedalEdu.
 
-- [HaedalEducation Component Folder Guide](HaedalEducation/README.md), [해달에듀 컴포넌트 폴더 사용법](HaedalEducation/README.md)
+- 해달에듀에서 사용하는 컴포넌트를 제공합니다.
+
+    - [Click to see HaedalEducation Component images](HaedalEducation), [해달에듀 컴포넌트 이미지 보러가기](HaedalEducation)
+
+    - [HaedalEducation Component Folder Guide](HaedalEducation/README.md), [해달에듀 컴포넌트 폴더 사용법](HaedalEducation/README.md)
+        - [hardware-하드웨어(전자/ 전기)](./HARDWARE.md)
+        - [software-소프트웨어(코딩)](./SOFTWARE.md)
+        - [mathmatics-수학 개념](./MATHMATICS.md)
+        - [science-과학 개념(전자/전기 제외)](./SCIENCE.md)
+        - [social-일상생활](./SOCIAL.md)
+        - [etc-기타](./ETC.md)
 
 ### Background-배경 이미지
 
-- [Click to see Background images](Background), [배경 이미지 보러가기](Background)
+- We provide an background images.
 
-- [Background Folder Guide](Background/README.md), [배경 이미지 폴더 사용법](Background/README.md)
+- 배경 이미지를 제공합니다.
+
+    - [Click to see Background images](Background), [배경 이미지 보러가기](Background)
+
+    - [Background Folder Guide](Background/README.md), [배경 이미지 폴더 사용법](Background/README.md)
 
 ## Licenses-라이센스
 
