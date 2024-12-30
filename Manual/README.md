@@ -1,6 +1,12 @@
-# Manual
+# Manual-해달프렌즈 캐릭터 매뉴얼
 
-**해달프렌즈 캐릭터 매뉴얼 가이드**
+**Haedalfriends Manual Folder Guide - 매뉴얼 폴더 사용법**
+
+We provide an introductory image of the HaedalFriends character.
+
+All image names have the following rules.
+
+- `Manual_(character name)_infor_(file number)`
 
 해달프렌즈 캐릭터에 대한 소개 이미지를 제공합니다.
 
