@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|
 | 해달이<br>Haedali | 흐규<br>Hugyu | 사스미<br>Sasumi |
 | ![아리](./HaedalFriends/HaedalFriends_ari_basic_1.png) | ![김두근](./HaedalFriends/HaedalFriends_doogeunkim_basic_1.png) | ![매기](./HaedalFriends/HaedalFriends_maggiecarl_basic_1.png) |
-| 아리<br>Ari | 김두근<br>Kim Dugeun | 매기<br>Maggie |
+| 아리<br>Ari | 김두근<br>Doogeun Kim | 매기<br>Maggie Carl |
 | ![시라용](./HaedalFriends/HaedalFriends_searayon_basic_1.png) | ![부기](./Utilization/Utilization_buggie_drink_1.png) | ![스팸](./HaedalFriends/HaedalFriends_supam_basic_1.png) |
 | 시라용<br>Siraryong | 부기<br>Boogie | 스팸<br>Spam |
 
@@ -101,7 +101,7 @@ IT대학 교내의 국민 샌애긔<br>
 
 ---
 
-### Doogeunkim-김두근
+### Doogeun Kim-김두근
 
 <img src="./HaedalFriends/HaedalFriends_doogeunkim_basic_1.png" height="170">
 
@@ -125,7 +125,7 @@ IT대학의 반전매력을 담당하는 토끼<br>
 
 ---
 
-### Maggiecarl-매기
+### Maggie Carl-매기
 
 <img src="./HaedalFriends/HaedalFriends_maggiecarl_basic_1.png" height="170">
 
