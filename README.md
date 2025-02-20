@@ -185,7 +185,7 @@ It is said that inside their shell, a precious MacBook is carried."
 
 ---
 
-### Supam-스팸
+### Spam-스팸
 
 <img src="./HaedalFriends/HaedalFriends_supam_basic_1.png" height="170">
 
