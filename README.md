@@ -7,6 +7,16 @@
 2024년 12월부터 다양한 모습의 캐릭터, 컴포넌트, 배경 이미지들을 오픈소스로 제공하고 있습니다.
 
 # Character information 캐릭터 정보
+## 전체
+
+| ![해달이](./HaedalFriends/Haedali.png) | ![흐규](./HaedalFriends/Heugyu.png) | ![사스미](./HaedalFriends/Sasumi.png) |
+|:---:|:---:|:---:|
+| 해달이<br>Haedali | 흐규<br>Heugyu | 사스미<br>Sasumi |
+| ![아리](./HaedalFriends/Ari.png) | ![김두근](./HaedalFriends/KimDugeun.png) | ![매기](./HaedalFriends/Maggie.png) |
+| 아리<br>Ari | 김두근<br>Kim Dugeun | 매기<br>Maggie |
+| ![시라용](./HaedalFriends/Siraryong.png) | ![부기](./HaedalFriends/Boogie.png) | ![스팸](./HaedalFriends/Spam.png) |
+| 시라용<br>Siraryong | 부기<br>Boogie | 스팸<br>Spam |
+
 
 ### Haedali-해달이
 
