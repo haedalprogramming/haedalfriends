@@ -6,7 +6,6 @@
 
 2024년 12월부터 다양한 모습의 캐릭터, 컴포넌트, 배경 이미지들을 오픈소스로 제공하고 있습니다.
 
-# Character information 캐릭터 정보
 ## 전체
 
 | ![해달이](./HaedalFriends/HaedalFriends_haedali_basic_1.png) | ![흐규](./HaedalFriends/HaedalFriends_hugyu_basic_1.png) | ![사스미](./HaedalFriends/HaedalFriends_sasumi_basic_1.png) |
@@ -17,7 +16,7 @@
 | ![시라용](./HaedalFriends/HaedalFriends_searayon_basic_1.png) | ![부기](./Utilization/Utilization_buggie_drink_1.png) | ![스팸](./HaedalFriends/HaedalFriends_supam_basic_1.png) |
 | 시라용<br>Siraryong | 부기<br>Boogie | 스팸<br>Spam |
 
-
+# Character information 캐릭터 정보
 
 ### Haedali-해달이
 
