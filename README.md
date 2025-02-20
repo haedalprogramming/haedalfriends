@@ -9,18 +9,19 @@
 # Character information 캐릭터 정보
 ## 전체
 
-| ![해달이](./HaedalFriends/Haedali.png) | ![흐규](./HaedalFriends/Heugyu.png) | ![사스미](./HaedalFriends/Sasumi.png) |
+| ![해달이](./HaedalFriends/HaedalFriends_haedali_basic_1.png) | ![흐규](./HaedalFriends/HaedalFriends_hugyu_basic_1.png) | ![사스미](./HaedalFriends/HaedalFriends_sasumi_basic_1.png) |
 |:---:|:---:|:---:|
-| 해달이<br>Haedali | 흐규<br>Heugyu | 사스미<br>Sasumi |
-| ![아리](./HaedalFriends/Ari.png) | ![김두근](./HaedalFriends/KimDugeun.png) | ![매기](./HaedalFriends/Maggie.png) |
+| 해달이<br>Haedali | 흐규<br>Hugyu | 사스미<br>Sasumi |
+| ![아리](./HaedalFriends/HaedalFriends_ari_basic_1.png) | ![김두근](./HaedalFriends/HaedalFriends_doogeunkim_basic_1.png) | ![매기](./HaedalFriends/HaedalFriends_maggiecarl_basic_1.png) |
 | 아리<br>Ari | 김두근<br>Kim Dugeun | 매기<br>Maggie |
-| ![시라용](./HaedalFriends/Siraryong.png) | ![부기](./HaedalFriends/Boogie.png) | ![스팸](./HaedalFriends/Spam.png) |
+| ![시라용](./HaedalFriends/HaedalFriends_searayon_basic_1.png) | ![부기](./Utilization/Utilization_buggie_drink_1.png) | ![스팸](./HaedalFriends/HaedalFriends_supam_basic_1.png) |
 | 시라용<br>Siraryong | 부기<br>Boogie | 스팸<br>Spam |
+
 
 
 ### Haedali-해달이
 
-<img src="./HaedalFriends/HaedalFriends_haedali_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_haedali_basic_1.png" height="170">
 
 **Mascot of Haedal Friends**
 
@@ -39,7 +40,7 @@ Mainly found by the window on the second floor of a cafe near the campus, coding
 
 ### Hugyu-흐규
 
-<img src="./HaedalFriends/HaedalFriends_hugyu_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_hugyu_basic_1.png" height="170">
 
 **Haedal's Shy but Kind Friend**
 
@@ -60,7 +61,7 @@ So exhausted from overnight work that sometimes passes by friends on the street 
 
 ### Sasumi-사스미
 
-<img src="./HaedalFriends/HaedalFriends_sasumi_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_sasumi_basic_1.png" height="170">
 
 **A developer born with 48 hours in a day**
 
@@ -83,7 +84,7 @@ Sasumi's annoyingly attractive, but undeniably handsome - a too-much setting.
 
 ### Ari-아리
 
-<img src="./HaedalFriends/HaedalFriends_ari_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_ari_basic_1.png" height="170">
 
 **A Cute Child in a Barren Engineering College**
 
@@ -103,7 +104,7 @@ IT대학 교내의 국민 샌애긔<br>
 
 ### Doogeunkim-김두근
 
-<img src="./HaedalFriends/HaedalFriends_doogeunkim_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_doogeunkim_basic_1.png" height="170">
 
 **An Innocent Face with huge Muscles**
 
@@ -127,7 +128,7 @@ IT대학의 반전매력을 담당하는 토끼<br>
 
 ### Maggiecarl-매기
 
-<img src="./HaedalFriends/HaedalFriends_maggiecarl_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_maggiecarl_basic_1.png" height="170">
 
 **Has All the Latest IT Devices.**
 
@@ -149,7 +150,7 @@ By the way, his favorite snack is Shrimp Crackers.<br>
 
 ### Searayon-시라용
 
-<img src="./HaedalFriends/HaedalFriends_searayon_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_searayon_basic_1.png" height="170">
 
 **After Returning to School, Already 500 Lattes**
 
@@ -167,7 +168,7 @@ There's a rumor that I actually always order an iced latte at cafes..."
 
 ### Buggie-부기
 
-<img src="./Utilization/Utilization_buggie_drink_0.png" height="170">
+<img src="./Utilization/Utilization_buggie_drink_1.png" height="170">
 
 **A Typical Turtle-Neck from the Haedal University**
 
@@ -187,7 +188,7 @@ It is said that inside their shell, a precious MacBook is carried."
 
 ### Supam-스팸
 
-<img src="./HaedalFriends/HaedalFriends_supam_basic_0.png" height="170">
+<img src="./HaedalFriends/HaedalFriends_supam_basic_1.png" height="170">
 
 **Academic Passion That Only Ignites Near the End of Class**
 
